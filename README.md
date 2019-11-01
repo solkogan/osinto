@@ -1,5 +1,7 @@
 <h2>Список OSINT ресурсов, наиболее полезных для СНГ</h2>
 
+<a href="https://github.com/solkogan/osinto/blob/master/articles.md">Статьи по OSINT</a>
+
 <b>Системы поиска людей:</b>
 
 http://people.yandex.ru - поиск по ФИО, возрасту, городу, нику<br>
