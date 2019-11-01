@@ -81,6 +81,7 @@ https://snusbase.com - еще один платный сервис<br>
 https://monitor.firefox.com/breaches - информация о свежих утечках, позволяет искать базы по ключевым словам на форумах даркнета.<br>
 https://github.com/woj-ciech/LeakLooker - поиск открытых баз через Shodan (нужен ключ)<br>
 https://github.com/decoxviii/karma - поиск по утечкам<br>
+http://weleakinfo.com - еще один платный сервис<br>
 
 <b>Работа с фотографиями</b>
 
