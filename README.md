@@ -146,3 +146,4 @@ http://osirtbrowser.com/ - удобный браузер со встроенно
 
 <b>Разное</b>
 https://t.me/@wifimapbot - покажет пароли Wi-fi недалеко от вас, если послать боту свою геометку
+https://github.com/opsdisk/pagodo - Automate Google Hacking Database scraping 
