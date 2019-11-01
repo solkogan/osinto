@@ -2,3 +2,43 @@
 
 Обнаружение пересекающихся сообществ в Instagram для определения интересов пользователей<br>
 https://habr.com/ru/company/dentsuaegisnetworkrussia/blog/470634/ 
+
+Пробив телефона 
+https://telegra.ph/Otkrytoe-rassledovanie-Probiv-telefona-s-pomoshchyu-OSINT-10-13
+
+10 трюков поиска в «Яндексе»
+https://www.iphones.ru/iNotes/718744
+
+Проверить документы на подлинность
+https://www.iphones.ru/iNotes/599606
+
+Как узнать всё про любой сайт
+https://www.iphones.ru/iNotes/538128
+
+Анализ фотографий
+https://www.iphones.ru/iNotes/539460
+
+Ищем владельца сайта
+https://www.iphones.ru/iNotes/565449
+
+Посмотреть посты всех ваших соседей в соцсетях
+https://www.iphones.ru/iNotes/643718
+
+Информация по адресу электронной почты
+https://www.iphones.ru/iNotes/647715
+
+Как найти личный или рабочий email любого человека
+https://www.iphones.ru/iNotes/648466
+
+Сбор информации о доме или квартире
+https://www.iphones.ru/iNotes/703975
+
+Сбор информации об автомобиле по госномеру и VIN
+https://www.iphones.ru/iNotes/657050
+
+Как узнать всё о любой компании, используя интернет
+https://www.iphones.ru/iNotes/700577
+
+15 фишек для сбора информации о человеке в интернете
+https://www.iphones.ru/iNotes/533552
+
