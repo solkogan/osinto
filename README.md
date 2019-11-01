@@ -135,6 +135,7 @@ https://search.buzz.im/ -поиск по чатам в Телеграм<br>
 
 <b>Дампы и сливы</b>
 
+https://ebaza.pro/<br>
 https://darknetleaks.ru/archive/<br>
 https://data.ddosecrets.com/file/<br>
 https://phreaker.pro/forum/forums/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB.121/<br>
