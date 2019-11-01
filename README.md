@@ -155,4 +155,5 @@ http://osirtbrowser.com/ - удобный браузер со встроенно
 <b>Разное</b>
 https://t.me/wifimapbot - покажет пароли Wi-fi недалеко от вас, если послать боту свою геометку
 https://t.me/FriendsFindBot - покажет юзеров ВК недалеко от вас, если послать боту свою геометку
+https://mattw.io/youtube-geofind/location - покажет ютуб видео снятые в конкретной гео точке
 https://github.com/opsdisk/pagodo - Automate Google Hacking Database scraping 
