@@ -6,6 +6,9 @@ https://habr.com/ru/company/dentsuaegisnetworkrussia/blog/470634/
 Как удалить информацию о себе из поисковых систем?
 https://zen.yandex.ru/media/id/5ae07d3d4bf1617dbec059ad/kak-udalit-informaciiu-o-sebe-iz-poiskovyh-sistem-5b029c77c3321bdea7457877
 
+Как найти всю информацию о любом человеке в ВКонтакте
+https://www.iphones.ru/iNotes/705983
+
 Пробив телефона 
 https://telegra.ph/Otkrytoe-rassledovanie-Probiv-telefona-s-pomoshchyu-OSINT-10-13
 
