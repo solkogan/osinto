@@ -61,6 +61,7 @@ https://github.com/solkogan/searchface - моя система поиска по
 https://azure.microsoft.com/en-us/services/cognitive-services/face/ - находится ли на двух разных фотках один и тот же человек<br>
 https://github.com/ThoughtfulDev/EagleEye - система поиска лиц в соцсетях<br>
 https://github.com/AivanF/ID-Detective-public - программа для поиска по биометрии ВКонтакте<br>
+http://snradar.azurewebsites.net/ - показывает фото ВК сделанные в определенное время в определенном месте<br>
 
 <b>Поиск по E-mail</b>
 
