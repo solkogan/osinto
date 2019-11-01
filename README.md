@@ -3,4 +3,5 @@
 <b>Системы поиска людей:</b>
 
 http://people.yandex.ru - лучшая система поиска по СНГ<br>
-https://vk.com/search?c[section]=people - поиск людей ВК
+https://vk.com/search?c[section]=people - поиск людей ВК<br>
+https://pipl.com/ - общемировая система поиска по соцсетям
