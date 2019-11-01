@@ -60,7 +60,8 @@ https://github.com/decoxviii/karma - поиск по утечкам
 
 Любая JPEG фотография, сделанная смартфоном с включенным GPS обычно содержит EXIF заголовки, которые позволяют определить место съемки. 
 
-http://metapicz.com/#landing - определить EXIF заголовки фото
+http://metapicz.com/#landing - определить EXIF заголовки фото<br>
+https://owl.phy.queensu.ca/~phil/exiftool/ - программа для извлечения EXIF
 
 https://images.google.com - поиск по картинкам Гугл<br>
 https://images.yandex.ru - поиск по картинкам Яндекс
