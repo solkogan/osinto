@@ -66,3 +66,5 @@ https://www.iphones.ru/iNotes/700577
 15 фишек для сбора информации о человеке в интернете
 https://www.iphones.ru/iNotes/533552
 
+Гугл хакинг
+https://webvivant.com/writing-journalism/sample-features/google-hacking-101/
