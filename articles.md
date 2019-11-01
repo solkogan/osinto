@@ -1,5 +1,8 @@
 <h2>Полезные статьи по OSINT</h2>
 
+Что можно узнать о вас по номеру телефона
+https://rb.ru/story/phone-number-and-security/
+
 Я вижу вас насквозь, а вы при этом наивно полагаете, что находитесь в полной безопасности.
 https://telegra.ph/YA-vizhu-vas-naskvoz-a-vy-pri-ehtom-naivno-polagaete-chto-nahodites-v-polnoj-bezopasnosti-09-01
 
