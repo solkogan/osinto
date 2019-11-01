@@ -1,5 +1,8 @@
 <h2>Полезные статьи по OSINT</h2>
 
+Полезные OSINT ресурсы
+https://telegra.ph/Sbor-informacii-o-cheloveke-iz-otkrytyh-baz-dannyh-07-02
+
 Тихая разведка. Изучаем инструменты и техники пассивного сбора информации
 https://telegra.ph/Tihaya-razvedka-Izuchaem-instrumenty-i-tehniki-passivnogo-sbora-informacii-07-22
 
