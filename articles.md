@@ -1,5 +1,8 @@
 <h2>Полезные статьи по OSINT</h2>
 
+Я вижу вас насквозь, а вы при этом наивно полагаете, что находитесь в полной безопасности.
+https://telegra.ph/YA-vizhu-vas-naskvoz-a-vy-pri-ehtom-naivno-polagaete-chto-nahodites-v-polnoj-bezopasnosti-09-01
+
 Обнаружение пересекающихся сообществ в Instagram для определения интересов пользователей<br>
 https://habr.com/ru/company/dentsuaegisnetworkrussia/blog/470634/ 
 
