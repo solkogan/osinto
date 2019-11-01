@@ -2,7 +2,7 @@
 
 <b>Системы поиска людей:</b>
 
-http://people.yandex.ru - лучшая система поиска по СНГ<br>
+http://people.yandex.ru - поиск по ФИО, возрасту, городу, нику<br>
 https://vk.com/search?c[section]=people - поиск людей ВК<br>
 https://pipl.com/ - общемировая система поиска по соцсетям
 
