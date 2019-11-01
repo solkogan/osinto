@@ -75,6 +75,9 @@ https://github.com/decoxviii/karma - поиск по утечкам
 
 http://metapicz.com/#landing - определить EXIF заголовки фото<br>
 https://owl.phy.queensu.ca/~phil/exiftool/ - программа для извлечения EXIF
+http://linkstore.ru/exif/
+http://exif.regex.info/exif.cgi
+http://imgops.com/
 
 https://images.google.com - поиск по картинкам Гугл<br>
 https://images.yandex.ru - поиск по картинкам Яндекс
