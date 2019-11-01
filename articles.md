@@ -12,6 +12,9 @@ https://www.iphones.ru/iNotes/705983
 Узнаем местоположение человека
 https://telegra.ph/Seeker-Uznaem-mestopolozhenie-cheloveka-09-23
 
+Поиск инфы о человеке
+https://telegra.ph/Socialnaya-razvedka-Poisk-informacii-o-cheloveke-09-22
+
 Пробив телефона 
 https://telegra.ph/Otkrytoe-rassledovanie-Probiv-telefona-s-pomoshchyu-OSINT-10-13
 
