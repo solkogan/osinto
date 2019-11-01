@@ -49,7 +49,8 @@ https://t.me/Smart_SearchBot - платный бот. Ищет аккаунт В
 
 https://haveibeenpwned.com/ - показывает наличие емайла в слитых базах, и имя базы, но не сами пароли.<br>
 https://leakcheck.net - платный сервис</br>
-https://snusbase.com - еще один платный сервис
+https://snusbase.com - еще один платный сервис<br>
+https://monitor.firefox.com/breaches - информация о свежих утечках, позволяет искать базы по ключевым словам на форумах даркнета.
 
 <b>Работа с фотографиями</b>
 
