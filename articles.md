@@ -5,7 +5,8 @@ https://telegra.ph/Sbor-informacii-o-cheloveke-iz-otkrytyh-baz-dannyh-07-02
 
 Мануалы по ОСИНТ
 https://telegra.ph/OSINT-guide2019-06-04<br>
-https://telegra.ph/Moj-lichnyj-sposob-deanonimizacii-05-31
+https://telegra.ph/Moj-lichnyj-sposob-deanonimizacii-05-31<br>
+https://dwb.one/threads/85443/<br>
 
 Тихая разведка. Изучаем инструменты и техники пассивного сбора информации
 https://telegra.ph/Tihaya-razvedka-Izuchaem-instrumenty-i-tehniki-passivnogo-sbora-informacii-07-22
