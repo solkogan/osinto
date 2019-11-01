@@ -3,6 +3,9 @@
 Я вижу вас насквозь, а вы при этом наивно полагаете, что находитесь в полной безопасности.
 https://telegra.ph/YA-vizhu-vas-naskvoz-a-vy-pri-ehtom-naivno-polagaete-chto-nahodites-v-polnoj-bezopasnosti-09-01
 
+Узнаем паспортные данные физического лица по ФИО (если есть залоговое имущество)
+https://habr.com/ru/post/465209/
+
 Обнаружение пересекающихся сообществ в Instagram для определения интересов пользователей<br>
 https://habr.com/ru/company/dentsuaegisnetworkrussia/blog/470634/ 
 
