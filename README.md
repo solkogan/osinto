@@ -21,6 +21,7 @@ https://thatsthem.com - поиск по людям (зарубежье)<br>
 
 http://searchlikes.ru - анализ лайков юзера ВК<br>
 https://vk.com/age_teller - сервис который пытается определить возраст юзера по его социальным связям<br>
+https://github.com/migalin/VKAnalysis - анализ ВК
 https://github.com/batuhaniskr/twitter-intelligence - для анализа твиттера<br>
 https://github.com/twintproject/twint - анализ Твиттер<br>
 https://github.com/sc1341/InstagramOSINT - анализ Инсты<br>
