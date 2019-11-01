@@ -8,6 +8,8 @@
 http://people.yandex.ru - поиск по ФИО, возрасту, городу, нику<br>
 https://go.mail.ru/search_social? - поиск людей в соцсетях<br>
 https://vk.com/search?c[section]=people - поиск людей ВК<br>
+https://www.facebook.com/friends/requests/ - поиск в Фейсбуке<br>
+https://twitter.com/search-advanced - поиск в Твиттер<br>
 https://pipl.com/ - общемировая система поиска по соцсетям
 https://thatsthem.com - поиск по людям (зарубежье)<br> 
 
