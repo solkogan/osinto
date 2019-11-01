@@ -1,8 +1,5 @@
 <h2>Полезные статьи по OSINT</h2>
 
-Самое полезное - тут
-https://docs.osint.rest/?version=latest
-
 Что можно узнать о вас по номеру телефона
 https://rb.ru/story/phone-number-and-security/
 
