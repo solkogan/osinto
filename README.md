@@ -2,6 +2,7 @@
 
 <a href="https://github.com/solkogan/osinto/blob/master/articles.md">Статьи по OSINT</a><br>
 <a href="https://t.me/osinto">Мой Telegram канал по OSINT</a>
+<a href="http://stop-list.info/baza/">Сборник полезных сервисов</a>
 
 <b>Системы поиска людей:</b>
 
