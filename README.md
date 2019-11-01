@@ -14,7 +14,8 @@ https://pipl.com/ - общемировая система поиска по со
 
 http://searchlikes.ru - анализ лайков юзера ВК<br>
 https://vk.com/age_teller - сервис который пытается определить возраст юзера по его социальным связям<br>
-https://github.com/batuhaniskr/twitter-intelligence - для анализа твиттера
+https://github.com/batuhaniskr/twitter-intelligence - для анализа твиттера<br>
+https://github.com/sc1341/InstagramOSINT - анализ Инсты
 
 <b>Поиск по нику, логину</b>
 
