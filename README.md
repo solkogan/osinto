@@ -1,4 +1,4 @@
-<h2>Список OSINT ресурсов, наиболее полезных для СНГ</h2>
+<h2>Список OSINT ресурсов</h2>
 
 <a href="https://github.com/solkogan/osinto/blob/master/articles.md">Статьи по OSINT</a>
 <a href="https://t.me/osinto">Мой Telegram канал по OSINT</a>
@@ -9,6 +9,7 @@ http://people.yandex.ru - поиск по ФИО, возрасту, городу
 https://go.mail.ru/search_social? - поиск людей в соцсетях<br>
 https://vk.com/search?c[section]=people - поиск людей ВК<br>
 https://pipl.com/ - общемировая система поиска по соцсетям
+https://thatsthem.com - поиск по людям (зарубежье)<br> 
 
 Иногда достаточно фамилии и города проживания. Найдется много людей пролистав фото которых, вы обнаружите искомого. Узнав из его аккаунта дату рождения, повторите поиск с этим же именем, но без фамилии или наоборот с этой же фамилией но без имени, или просто по точной дате рождения - так вы найдете левые акки человека с измененным ФИО или без ФИО, но с его фотками.
 
@@ -29,7 +30,6 @@ https://knowem.com<br>
 https://www.namecheckr.com<br>
 http://usersherlock.com<br>
 https://usersearch.org<br>
-https://thatsthem.com<br>
 
 Если известен ник пользователя мы всегда можем просто набрать его логин в соответствующих профилю параметрах адресной строки данной соцсети. Например https://vk.com/supernick или https://my.mail.ru/mail/supernick
 
