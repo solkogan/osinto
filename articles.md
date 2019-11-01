@@ -9,6 +9,9 @@ https://zen.yandex.ru/media/id/5ae07d3d4bf1617dbec059ad/kak-udalit-informaciiu-o
 Как найти всю информацию о любом человеке в ВКонтакте
 https://www.iphones.ru/iNotes/705983
 
+Узнаем местоположение человека
+https://telegra.ph/Seeker-Uznaem-mestopolozhenie-cheloveka-09-23
+
 Пробив телефона 
 https://telegra.ph/Otkrytoe-rassledovanie-Probiv-telefona-s-pomoshchyu-OSINT-10-13
 
