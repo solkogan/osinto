@@ -148,5 +148,6 @@ https://archive.is - просто введите URL-адрес страницы
 http://osirtbrowser.com/ - удобный браузер со встроенной архивацией
 
 <b>Разное</b>
-https://t.me/@wifimapbot - покажет пароли Wi-fi недалеко от вас, если послать боту свою геометку
+https://t.me/wifimapbot - покажет пароли Wi-fi недалеко от вас, если послать боту свою геометку
+https://t.me/FriendsFindBot - покажет юзеров ВК недалеко от вас, если послать боту свою геометку
 https://github.com/opsdisk/pagodo - Automate Google Hacking Database scraping 
