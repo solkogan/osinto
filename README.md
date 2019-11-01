@@ -170,6 +170,7 @@ https://archive.is - просто введите URL-адрес страницы
 http://osirtbrowser.com/ - удобный браузер со встроенной архивацией<br>
 
 <b>Разное</b>
+
 https://t.me/wifimapbot - покажет пароли Wi-fi недалеко от вас, если послать боту свою геометку<br>
 https://t.me/FriendsFindBot - покажет юзеров ВК недалеко от вас, если послать боту свою геометку<br>
 https://mattw.io/youtube-geofind/location - покажет ютуб видео снятые в конкретной гео точке<br>
