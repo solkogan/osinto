@@ -6,6 +6,9 @@ https://telegra.ph/YA-vizhu-vas-naskvoz-a-vy-pri-ehtom-naivno-polagaete-chto-nah
 Узнаем паспортные данные физического лица по ФИО (если есть залоговое имущество)
 https://habr.com/ru/post/465209/
 
+Проверка авто по вин коду / гос. номеру.
+https://www.drive2.ru/b/458658252943589929/
+
 Обнаружение пересекающихся сообществ в Instagram для определения интересов пользователей<br>
 https://habr.com/ru/company/dentsuaegisnetworkrussia/blog/470634/ 
 
