@@ -10,6 +10,9 @@ https://dwb.one/threads/85443/<br>
 http://vas3k.ru/blog/389/<br>
 https://zen.yandex.ru/media/imonfire_official/osint-poisk-informacii-o-cheloveke-v-seti-5b1abe4ceb269500a877e0e2<br>
 
+Инструменты конкурентной разведки для "пробивки"<br>
+https://osint-voksanaev.livejournal.com/192579.html<br>
+
 Тихая разведка. Изучаем инструменты и техники пассивного сбора информации<br>
 https://telegra.ph/Tihaya-razvedka-Izuchaem-instrumenty-i-tehniki-passivnogo-sbora-informacii-07-22
 
