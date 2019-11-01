@@ -120,6 +120,8 @@ http://www.advego.ru/plagiatus/ – программа для поиска пл�
 http://go.mail.ru/realtime - как ни странно, ищет не хуже Яндекса<br>
 https://www.mmnt.ru/int/ - поиск по FTP<br>
 https://github.com/saeeddhqan/Maryam/wiki - мощный поисковый комбайн<br>
+https://bit.ly/Telegago - поиск по статьям в Telegram<br>
+https://search.buzz.im/ -поиск по чатам в Телеграм<br>
 
 <b>Дампы и сливы</b>
 
