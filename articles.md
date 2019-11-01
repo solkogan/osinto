@@ -13,6 +13,7 @@ https://telegra.ph/Tihaya-razvedka-Izuchaem-instrumenty-i-tehniki-passivnogo-sbo
 
 Что можно узнать о вас по номеру телефона<br>
 https://rb.ru/story/phone-number-and-security/
+https://codeby.net/threads/phoneinfoga-uznajom-informaciju-po-nomeru-telefona.66023/
 
 Я вижу вас насквозь, а вы при этом наивно полагаете, что находитесь в полной безопасности.<br>
 https://telegra.ph/YA-vizhu-vas-naskvoz-a-vy-pri-ehtom-naivno-polagaete-chto-nahodites-v-polnoj-bezopasnosti-09-01
