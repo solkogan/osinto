@@ -12,6 +12,9 @@ https://www.iphones.ru/iNotes/705983
 Узнаем местоположение человека
 https://telegra.ph/Seeker-Uznaem-mestopolozhenie-cheloveka-09-23
 
+Как получить фотографию человека по номеру телефона
+https://osint.systems/kak-poluchit-fotografiyu-cheloveka-po-nomeru-telefona/
+
 Поиск инфы о человеке
 https://telegra.ph/Socialnaya-razvedka-Poisk-informacii-o-cheloveke-09-22
 
