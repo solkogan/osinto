@@ -1,5 +1,8 @@
 <h2>Полезные статьи по OSINT</h2>
 
+Тихая разведка. Изучаем инструменты и техники пассивного сбора информации
+https://telegra.ph/Tihaya-razvedka-Izuchaem-instrumenty-i-tehniki-passivnogo-sbora-informacii-07-22
+
 Что можно узнать о вас по номеру телефона
 https://rb.ru/story/phone-number-and-security/
 
