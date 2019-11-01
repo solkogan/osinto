@@ -156,13 +156,13 @@ https://phreaker.pro/forum/forums/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9-%D1%80%D0%B0%D0
 
 <b>Получение инфы со своих аккаунтов</b>
 
-https://takeout.google.com - все, что знает о вас гугл
+https://takeout.google.com - все, что знает о вас гугл<br>
 https://m.vk.com/blog/press-download-your-Information - все, что о вас знает ВК<br>
 
 
 <b>Анализ сайта</b>
 
-https://github.com/Nekmo/dirhunt -  программа для поиска директорий на сайте без брутфорса
+https://github.com/Nekmo/dirhunt -  программа для поиска директорий на сайте без брутфорса<br>
 
 <b>Архивация</b>
 
