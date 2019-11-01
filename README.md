@@ -164,3 +164,4 @@ https://t.me/FriendsFindBot - покажет юзеров ВК недалеко 
 https://mattw.io/youtube-geofind/location - покажет ютуб видео снятые в конкретной гео точке<br>
 https://github.com/opsdisk/pagodo - Automate Google Hacking Database scraping <br>
 https://iknowwhatyoudownload.com/ru/peer/ - узнать что скачивают с определенного IP<br>
+http://3wifi.stascorp.com/map - катра взломанных wi-fi точек (необходима регистрация)<br>
