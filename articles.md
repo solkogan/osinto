@@ -7,6 +7,7 @@ https://telegra.ph/Sbor-informacii-o-cheloveke-iz-otkrytyh-baz-dannyh-07-02<br>
 https://telegra.ph/OSINT-guide2019-06-04<br>
 https://telegra.ph/Moj-lichnyj-sposob-deanonimizacii-05-31<br>
 https://dwb.one/threads/85443/<br>
+http://vas3k.ru/blog/389/<br>
 
 Тихая разведка. Изучаем инструменты и техники пассивного сбора информации<br>
 https://telegra.ph/Tihaya-razvedka-Izuchaem-instrumenty-i-tehniki-passivnogo-sbora-informacii-07-22
