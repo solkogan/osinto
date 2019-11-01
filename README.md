@@ -42,6 +42,8 @@ https://play.google.com/store/apps/details?id=app.source.getcontact&hl=ru - пр
 https://play.google.com/store/apps/details?id=com.numbuster.android - еще одно приложение со схожим функционалом<br>
 https://t.me/Smart_SearchBot - платный бот, получающий информацию о человеке и его ВК по номеру сотового (хорошо работает для давно зарегистрированных аккаунтов ВК)<br>
 http://doska-org.ru - ищет номер сотового на досках объявлений<br>
+https://smsc.ru/testhlr/ - доступен ли сотовый<br>
+https://github.com/martinvigo/email2phonenumber - поиск сотового по емайлу<br>
 
 Кроме этого можно добавить номер сотового в свои контакты на смартфон с установленными ВК, Viber, Whatsapp и импортировать в эти программы номер, чтобы увидеть сидит ли человек там, и извлечь с аккаунтов дополнительную информацию - например фото с Whatsapp.
 
@@ -62,6 +64,8 @@ https://github.com/AivanF/ID-Detective-public - программа для пои
 https://t.me/Smart_SearchBot - платный бот. Ищет аккаунт ВК и сотовый по e-mail. Хорошо работает с давно зарегистрированными аккаунтами
 
 Поищите e-mail в гугле, заключив его в двойные кавычки
+
+https://github.com/martinvigo/email2phonenumber - поиск сотового по емайлу<br>
 
 <b>Пробив email на наличие в dump’ах старых паролей</b>
 
