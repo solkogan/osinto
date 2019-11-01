@@ -1,6 +1,7 @@
 <h2>Список OSINT ресурсов, наиболее полезных для СНГ</h2>
 
 <a href="https://github.com/solkogan/osinto/blob/master/articles.md">Статьи по OSINT</a>
+<a href="https://t.me/osinto">Мой Telegram канал по OSINT</a>
 
 <b>Системы поиска людей:</b>
 
