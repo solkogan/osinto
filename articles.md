@@ -23,6 +23,9 @@ https://habr.com/ru/post/465209/
 Проверка авто по вин коду / гос. номеру.<br>
 https://www.drive2.ru/b/458658252943589929/
 
+42 оператора расширенного поиска Google 
+https://habr.com/ru/post/437618/
+
 Обнаружение пересекающихся сообществ в Instagram для определения интересов пользователей<br>
 https://habr.com/ru/company/dentsuaegisnetworkrussia/blog/470634/ 
 
