@@ -10,7 +10,7 @@ https://go.mail.ru/search_social? - поиск людей в соцсетях<br
 https://vk.com/search?c[section]=people - поиск людей ВК<br>
 https://www.facebook.com/friends/requests/ - поиск в Фейсбуке<br>
 https://twitter.com/search-advanced - поиск в Твиттер<br>
-https://pipl.com/ - общемировая система поиска по соцсетям
+https://pipl.com/ - общемировая система поиска по соцсетям<br>
 https://thatsthem.com - поиск по людям (зарубежье)<br> 
 
 Иногда достаточно фамилии и города проживания. Найдется много людей пролистав фото которых, вы обнаружите искомого. Узнав из его аккаунта дату рождения, повторите поиск с этим же именем, но без фамилии или наоборот с этой же фамилией но без имени, или просто по точной дате рождения - так вы найдете левые акки человека с измененным ФИО или без ФИО, но с его фотками.
@@ -22,7 +22,7 @@ https://thatsthem.com - поиск по людям (зарубежье)<br>
 http://searchlikes.ru - анализ лайков юзера ВК<br>
 https://vk.com/age_teller - сервис который пытается определить возраст юзера по его социальным связям<br>
 https://github.com/batuhaniskr/twitter-intelligence - для анализа твиттера<br>
-https://github.com/sc1341/InstagramOSINT - анализ Инсты
+https://github.com/sc1341/InstagramOSINT - анализ Инсты<br>
 
 <b>Поиск по нику, логину</b>
 
@@ -40,8 +40,8 @@ https://usersearch.org<br>
 http://t.me/get_kontakt_bot - бот в Telegram, ищет как подписан юзер у его друзей на мобилках<br>
 https://play.google.com/store/apps/details?id=app.source.getcontact&hl=ru - приложение GetContact для Android<br>
 https://play.google.com/store/apps/details?id=com.numbuster.android - еще одно приложение со схожим функционалом<br>
-https://t.me/Smart_SearchBot - платный бот, получающий информацию о человеке и его ВК по номеру сотового (хорошо работает для давно зарегистрированных аккаунтов ВК)
-http://doska-org.ru - ищет номер сотового на досках объявлений
+https://t.me/Smart_SearchBot - платный бот, получающий информацию о человеке и его ВК по номеру сотового (хорошо работает для давно зарегистрированных аккаунтов ВК)<br>
+http://doska-org.ru - ищет номер сотового на досках объявлений<br>
 
 Кроме этого можно добавить номер сотового в свои контакты на смартфон с установленными ВК, Viber, Whatsapp и импортировать в эти программы номер, чтобы увидеть сидит ли человек там, и извлечь с аккаунтов дополнительную информацию - например фото с Whatsapp.
 
@@ -53,9 +53,9 @@ https://play.google.com/store/apps/details?id=ru.profsoft.findclone - платн
 https://t.me/AvinfoBot - посылаешь боту фото с лицом, он в ответ присылает ссылку на профиль ВК. Работает нормально.<br>
 https://findmevk.ru - бесплатный поиск по фото лица аккаунтов ВК - работает не очень<br>
 https://github.com/solkogan/searchface - моя система поиска по лицам ВК для небольших городов<br>
-https://azure.microsoft.com/en-us/services/cognitive-services/face/ - находится ли на двух разных фотках один и тот же человек
-https://github.com/ThoughtfulDev/EagleEye - система поиска лиц в соцсетях
-https://github.com/AivanF/ID-Detective-public - программа для поиска по биометрии ВКонтакте
+https://azure.microsoft.com/en-us/services/cognitive-services/face/ - находится ли на двух разных фотках один и тот же человек<br>
+https://github.com/ThoughtfulDev/EagleEye - система поиска лиц в соцсетях<br>
+https://github.com/AivanF/ID-Detective-public - программа для поиска по биометрии ВКонтакте<br>
 
 <b>Поиск по E-mail</b>
 
@@ -70,20 +70,20 @@ https://leakcheck.net - платный сервис</br>
 https://snusbase.com - еще один платный сервис<br>
 https://monitor.firefox.com/breaches - информация о свежих утечках, позволяет искать базы по ключевым словам на форумах даркнета.<br>
 https://github.com/woj-ciech/LeakLooker - поиск открытых баз через Shodan (нужен ключ)<br>
-https://github.com/decoxviii/karma - поиск по утечкам
+https://github.com/decoxviii/karma - поиск по утечкам<br>
 
 <b>Работа с фотографиями</b>
 
 Любая JPEG фотография, сделанная смартфоном с включенным GPS обычно содержит EXIF заголовки, которые позволяют определить место съемки. 
 
 http://metapicz.com/#landing - определить EXIF заголовки фото<br>
-https://owl.phy.queensu.ca/~phil/exiftool/ - программа для извлечения EXIF
-http://linkstore.ru/exif/
-http://exif.regex.info/exif.cgi
-http://imgops.com/
+https://owl.phy.queensu.ca/~phil/exiftool/ - программа для извлечения EXIF<br>
+http://linkstore.ru/exif/<br>
+http://exif.regex.info/exif.cgi<br>
+http://imgops.com/<br>
 
 https://images.google.com - поиск по картинкам Гугл<br>
-https://images.yandex.ru - поиск по картинкам Яндекс
+https://images.yandex.ru - поиск по картинкам Яндекс<br>
 
 Сочетайте обратный поиск фото с текстовыми запросами. Загрузите фотографию в Google Images. Если поисковик не выдает похожие фотографии, измените ключевое слово и по необходимости впишите в поле для поиска необходимую локацию. Например, если вы знаете, что фото было сделано в Швеции, впишите в поле для поиска возле фото «Site:se»
 
@@ -93,7 +93,7 @@ https://images.yandex.ru - поиск по картинкам Яндекс
 
 Узнать домашний адрес человека можно познакомившись с ним от имени противоположного пола и поинтересовавшись в каком районе города он живет. Далее по его фамилии и телефонной книге вычислить его точный адрес. Телефонные книги большинства населенных пунктов можно найти в сети интернет.
 
-http://spra.vkaru.net/ - телефонная книга домашних телефонов СНГ с адресами проживания и фамилиями, не самая новая
+http://spra.vkaru.net/ - телефонная книга домашних телефонов СНГ с адресами проживания и фамилиями, не самая новая<br>
 http://nomerorg.website/
 
 Кроме того можно сделать специальный скрипт, который залогирует местонахождение человека или его точки доступа, при заходе этого человека на web-страничку со скриптом.
@@ -106,10 +106,15 @@ https://avinfo.co/
 
 https://github.com/j3ssie/Metabigor - использование поисковых систем без API ключей<br>
 https://flightradar24.com - определение маршрутов самолетов в реальном времени<br>
-http://www.advego.ru/plagiatus/ – программа для поиска плагиата (можно с помощью нее искать первоисточник текста или новости). 
-http://go.mail.ru/realtime - как ни странно, ищет не хуже Яндекса
-https://www.mmnt.ru/int/ - поиск по FTP
-https://github.com/saeeddhqan/Maryam/wiki - мощный поисковый комбайн
+http://www.advego.ru/plagiatus/ – программа для поиска плагиата (можно с помощью нее искать первоисточник текста или новости). <br>
+http://go.mail.ru/realtime - как ни странно, ищет не хуже Яндекса<br>
+https://www.mmnt.ru/int/ - поиск по FTP<br>
+https://github.com/saeeddhqan/Maryam/wiki - мощный поисковый комбайн<br>
+
+<b>Дампы и сливы</b>
+
+https://darknetleaks.ru/archive/<br>
+https://data.ddosecrets.com/file/<br>
 
 <b>Методы социальной инженерии</b>
 
