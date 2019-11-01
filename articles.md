@@ -71,3 +71,7 @@ https://www.iphones.ru/iNotes/533552
 
 Гугл хакинг
 https://webvivant.com/writing-journalism/sample-features/google-hacking-101/
+
+Сбор информации о человеке на основе открытых источников.
+https://telegra.ph/Sbor-informacii-o-cheloveke-na-osnove-istochnikov-OSINT-dlya-samyh-malenkih-CH1-07-30
+https://telegra.ph/Sbor-informacii-o-cheloveke-na-osnove-otkrytyh-istochnikov-OSINT-dlya-samyh-malenkih-CHast-2-07-30
