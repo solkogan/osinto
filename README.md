@@ -112,6 +112,7 @@ https://avinfo.co/
 
 <b>Поисковые системы</b>
 
+https://cse.google.com/cse?cx=009462381166450434430:dqo-6rxvieq - гугл без капчи
 https://github.com/j3ssie/Metabigor - использование поисковых систем без API ключей<br>
 https://flightradar24.com - определение маршрутов самолетов в реальном времени<br>
 http://www.advego.ru/plagiatus/ – программа для поиска плагиата (можно с помощью нее искать первоисточник текста или новости). <br>
