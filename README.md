@@ -47,6 +47,7 @@ https://knowem.com<br>
 https://www.namecheckr.com<br>
 http://usersherlock.com<br>
 https://usersearch.org<br>
+https://startupnamecheck.com<br>
 
 Если известен ник пользователя мы всегда можем просто набрать его логин в соответствующих профилю параметрах адресной строки данной соцсети. Например https://vk.com/supernick или https://my.mail.ru/mail/supernick
 
