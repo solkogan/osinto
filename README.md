@@ -5,7 +5,6 @@
 
 <b>Системы поиска людей:</b>
 
-http://people.yandex.ru - поиск по ФИО, возрасту, городу, нику<br>
 https://go.mail.ru/search_social? - поиск людей в соцсетях<br>
 https://vk.com/search?c[section]=people - поиск людей ВК<br>
 https://www.facebook.com/friends/requests/ - поиск в Фейсбуке<br>
